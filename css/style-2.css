@@ -1,0 +1,16 @@
+body {
+  background-color: #f3f3f3;
+}
+.status-bar {
+  background-color: #4b0c2e;
+}
+.navbar {
+  background-color: #64103e;
+}
+button {
+  background-color: transparent;
+  border-color: transparent;
+}
+.nav-img {
+  margin-left: 4%;
+}
